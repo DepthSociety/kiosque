@@ -2,6 +2,10 @@
 extended = true
 min = "0.147.2"
 
+# Dòng này sẽ tải theme Hargo
+[[imports]]
+path = "github.com/gethugothemes/hargo-hugo"
 
+# Dòng này tải module images (giữ nguyên)
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/images"
