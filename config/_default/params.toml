@@ -2,6 +2,7 @@
 baseURL = "https://DepthSociety.github.io/kiosque/"
 languageCode = "vi"
 title = "The Kiosque"
+theme = "hargo-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "America/New_York"
 # post pagination
@@ -99,9 +100,9 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalyticsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = "+84 123 456 789"
+email = "the.kiosque@gmail.com"
+location = "227 Nguyen Van Cu, Cho Quan, Ho Chi Minh City, Viet Nam"
 # copyright
 copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
 # Snipcart Credentials
